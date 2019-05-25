@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: gray;
+    position: relative;
+}
+
+.top{
+	
+	width:100%;
+	height:100px;
+}
+.left{
+	
+	width:10%;
+	height:10000px;
+	float:left;
+}
+.center{
+	
+	width:80%;
+	height:100%
+	float:left;
+}
+.right{
+	
+	width:10%;
+	height:10000px;
+	float:left;
+}
+.content{
+    width: 100%;
+    margin: auto;
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Free-SS-SSR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myapp/Free-SS-SSR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shadowsock" vcs="Git" />
+  </component>
+</project>
